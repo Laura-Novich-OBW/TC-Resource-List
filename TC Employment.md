@@ -1,5 +1,9 @@
+<details>
+<summary>Find work in Technical Communication</summary>
+
 ## Find Work in Technical Communication
 The hitech industry offers many opportunities for technical communicators. See online discussions on LinkedIn’s [Technical Writer Forum](https://www.linkedin.com/groups/112571/).
+<details>
 
 ### Paid Internships
 * [Google Season of Docs](https://developers.google.com/season-of-docs) ([tricks on how to apply](https://www.freecodecamp.org/news/cracking-google-season-of-docs-2020/))
