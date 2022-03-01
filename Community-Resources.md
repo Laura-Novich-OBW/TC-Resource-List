@@ -1,6 +1,6 @@
 # Community Resources
 
-Resources to find like-minded people in the TC community. Information from previous meetups and conferences.
+Resources to find like-minded people in the TC community. Information from previous meetups and conferences. Opensource projects for collaboration.
 <details>
 <summary>Professional Organizations</summary>
 
@@ -89,5 +89,21 @@ Resources to find like-minded people in the TC community. Information from previ
 * [Show Me the Money: How to Get Your Docs the Love and Support They Deserve](https://www.youtube.com/watch?v=8ZPUOwBIi3g) &ndash; Matt Reiner; Write the Docs Portland 2019 video.  
 * [Friction Logging 101](https://www.youtube.com/watch?v=765wLWVcyS0) &ndash; Emma Iwao, DevRelCon video.  
 * [Generating a Culture of Doc](https://www.youtube.com/watch?v=v41nPTpXnHQ&list=PLmV2D6sIiX3UpQFzAIWh-_gsUTGCCtFIj&index=4) &ndash; Leah Cutter video.  
+ </details>
  
+<details>
+<summary>Opensource Projects</summary>
+
+* [Open Source Initiative](https://opensource.org/about)  
+* [NetNewsWire Help Book](https://github.com/Ranchero-Software/NetNewsWireHelp ) &ndash; RSS reader for Mac and iOS.  
+* [Misty Robotics Developer Documentation](https://github.com/MistyCommunity/Documentation ) &ndash; repo for source files for the Misty Robotics developer documentation.  
+* [Goose](https://github.com/tag1consulting/goose/blob/main/README.md ) &ndash; Rust load testing tool.  
+* [Divio Documentation](https://github.com/divio/divio-cloud-docs/blob/master/README.rst)  
+* [Writing Onboarding Toolkit](https://github.com/google/opendocs/tree/main/onboarding)  
+* [Open Docs](https://github.com/google/opendocs/blob/main/README.md ) &ndash; templates for creating software documentation.  
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/blob/master/README.md ) &ndash; a framework for building blockchain applications. 
+* [Read the Docs](https://readthedocs.org/ ) &ndash; a software documentation hosting platform.  
+* [Gaia](https://github.com/cosmos/gaia/tree/main/docs ) &ndash; an application by Cosmos Hub.  
+
+
  
