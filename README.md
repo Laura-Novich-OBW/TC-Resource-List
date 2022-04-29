@@ -1,5 +1,5 @@
 # Technical Communication Resource List 
-This repo contains a resource list for technical writers and documentarians who wish to improve their skills and knowledge, and be a part of the TC community.
+We created a resource list for technical writers and documentarians who wish to improve their skills and knowledge, and be a part of the TC community.
 <br>
 You can find links and information on the following topics:
 - [Education](https://github.com/Laura-Novich-OBW/resource-list/blob/main/learning-technology.md)
