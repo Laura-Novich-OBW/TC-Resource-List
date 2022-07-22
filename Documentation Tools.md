@@ -102,3 +102,6 @@ There are many tools that can help you document code, control your text and gene
 * [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 * [Typography for Docs](https://www.youtube.com/watch?v=8J6HuvosP0s&t=3s) (Video) 
 </summary>
+
+  <details>
+<summary>Graphic Tools</summary>
