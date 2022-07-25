@@ -66,7 +66,7 @@ There are many tools that can help you document code, control your text and gene
 	
 * Screen Shot Tools
   
-  Screen shot tools capture screenshots of your computer screen, specific windows, or areas of your computer screen, and save it as a graphics file. 
+  Screen shot tools capture screenshots of your computer screen, specific windows, or particular areas of your computer screen, and save them as graphics files. 
   
    *  [Greenshot](https://getgreenshot.org/) 
    *  [Snagit](https://www.techsmith.com/screen-capture.html)
@@ -76,7 +76,7 @@ There are many tools that can help you document code, control your text and gene
   
 * Diagram Creation Tools
   
-  Diagram tools lets you create detailed diagrams and flow charts out of images and data, either from templates or  from scratch.  
+  Diagram tools help create detailed diagrams and flow charts out of images and data, either from templates or from scratch.  
   
   *  [Diagrams.net (formerlyDraw.io)](https://app.diagrams.net/) 
   *  [Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
@@ -86,7 +86,7 @@ There are many tools that can help you document code, control your text and gene
 
 * Screen Recording Tools 
   
-  Screen recording tools let you record the output of your computer screen.
+  Screen recording tools record the output of your computer screen.
  
   *  [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
   *  [Screencastify](https://www.screencastify.com/)
