@@ -18,4 +18,4 @@ You can contribute by creating an issue or a pull request in the repo. Follow th
 <br>
 ___
 
-This project was created by [Orit Itsik](https://github.com/OritItsik), [Adam Friedmann](https://github.com/aafriedmann), and [Miriam Rosenberg](https://github.com/miriam1986) with guidance and supervision by [Laura Novich](https://github.com/Laura-Novich-OBW)
+This project was created by [Orit Itsik](https://github.com/OritItsik), [Adam Friedmann](https://github.com/aafriedmann), [Miriam Rosenberg](https://github.com/miriam1986), and [Solidoc365](https://github.com/solidoc365), with guidance and supervision by [Laura Novich](https://github.com/Laura-Novich-OBW).
