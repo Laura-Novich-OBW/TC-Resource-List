@@ -41,6 +41,62 @@ There are many tools that can help you document code, control your text and gene
 </details>
 
 <details>
+<summary>Graphic Tools</summary>
+   
+  Graphic Tools help create and integrate graphics to illustrate and explain documentation.
+
+* Raster Graphics
+  
+  Raster-based Graphics use pixels to create detailed images.
+  
+  *  [Gimp](https://www.gimp.org/)
+  *  [paint.NET](https://paint-net.en.softonic.com/download?utm_source=SEM&utm_medium=paid&utm_campaign=EN_UK_DSA&gclid=Cj0KCQjwlemWBhDUARIsAFp1rLVnA5lOjYUzSSaXnDQt_s_Rs-n5W_8Rpid9825-Z_RSYiGmpnYhkt0aAunmEALw_wcB)
+   *  [Adobe Photoshop](https://www.adobe.com/il_en/products/photoshop/landpb.html?gclid=Cj0KCQjwlemWBhDUARIsAFp1rLXYZTR9h0qKmSIepE-u62-M-icVd2T02RKSN3j2Cdf136ofOhqI-yYaAsr5EALw_wcB&skwcid=AL!3085!3!442333149083!e!!g!!adobe%20photoshop&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwlemWBhDUARIsAFp1rLXYZTR9h0qKmSIepE-u62-M-icVd2T02RKSN3j2Cdf136ofOhqI-yYaAsr5EALw_wcB:G:s&s_kwcid=AL!3085!3!442333149083!e!!g!!adobe%20photoshop!1462902212!57541634380) 
+  *  [Sketchbook Pro](https://www.sketchbook.com/)
+  *  [Corel Painter](https://www.painterartist.com/en/) 
+  
+* Vector Graphics
+  
+  Vector graphics use commands or mathematical formulas (instead of pixels) to create images.
+  
+  *  [Adobe Illustrator](https://www.adobe.com/il_en/products/illustrator.html) 
+  *  [Affinity Designer](https://affinity.serif.com/en-gb/)
+  *  [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/?x-vehicle=ppc_brkws&trial=false&gclid=Cj0KCQjw_viWBhD8ARIsAH1mCd4vaUV8rclGsDUyoXpe0Jj-peH5nlik_2u5tAzQToqYT_aqUVLwmG0aAsCYEALw_wcB&gclsrc=aw.ds)
+  *  [Adobe Capture](https://www.adobe.com/il_en/products/capture.html) 
+	
+* Screen Shot Tools
+  
+  Screen shot tools capture screenshots of your computer screen, specific windows, or particular areas of your computer screen, and save them as graphics files. 
+  
+   *  [Greenshot](https://getgreenshot.org/) 
+   *  [Snagit](https://www.techsmith.com/screen-capture.html)
+   *  [FastStone Capture](https://www.faststone.org/FSCaptureDownload.htm)	
+   *  [Scribe](https://scribehow.com/)
+   *  [FonePaw Screen Recorder](https://www.fonepaw.com/screen-recorder/)
+  
+* Diagram Creation Tools
+  
+  Diagram tools help create detailed diagrams and flow charts out of images and data, either from templates or from scratch.  
+  
+  *  [Diagrams.net (formerlyDraw.io)](https://app.diagrams.net/) 
+  *  [Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
+  *  [Sketch](https://www.sketch.com/)
+  *  [Gliffy](https://www.gliffy.com/)	
+  *  [Creately](https://creately.com/tour/)
+
+* Screen Recording Tools 
+  
+  Screen recording tools record the output of your computer screen.
+ 
+  *  [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+  *  [Screencastify](https://www.screencastify.com/)
+  *  [OBS Studio](https://obsproject.com/)
+  *  [Apowersoft Unlimited](https://www.apowersoft.com/free-online-screen-recorder)
+  *  [AceThinker](https://www.acethinker.com/free-screen-recorder)
+
+</details>
+  
+  <details>
 <summary>Dictionaries</summary>
 
 * [Merriam-Webster ](https://d.docs.live.net/45291cd5027f5412/Desktop/OBW%20MC%20and%20TC/TC%20Advanced/%20https:/www.merriam-webster.com/)
