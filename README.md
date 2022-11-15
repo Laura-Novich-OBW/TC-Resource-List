@@ -2,13 +2,13 @@
 We created a resource list for technical writers and documentarians who wish to improve their skills and knowledge, and be a part of the TC community.
 <br>
 You can find links and information on the following topics:
-- [Education](https://github.com/Laura-Novich-OBW/resource-list/blob/main/learning-technology.md)
-- [Employment](https://github.com/Laura-Novich-OBW/resource-list/blob/main/TC%20Employment.md)
-- [Tools](https://github.com/Laura-Novich-OBW/resource-list/blob/main/Documentation%20Tools.md)
-- [Learning Technology](https://github.com/Laura-Novich-OBW/resource-list/blob/main/learning-technology.md)
-- [Style Guides](https://github.com/Laura-Novich-OBW/resource-list/blob/main/Documentation-Guides.md)
-- [TC Library](https://github.com/Laura-Novich-OBW/resource-list/blob/main/TC-library.md)
-- [TC Community](https://github.com/Laura-Novich-OBW/resource-list/blob/main/Community-Resources.md)
+- [Education](learning-technology.md)
+- [Employment](TC-Employment.md)
+- [Tools](Documentation-Tools.md)
+- [Learning Technology](learning-technology.md)
+- [Style Guides](Documentation-Guides.md)
+- [TC Library](TC-library.md)
+- [TC Community](Community-Resources.md)
 
 
 ## Contibuting to the Resource List
