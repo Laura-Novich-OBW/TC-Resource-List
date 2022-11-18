@@ -4,7 +4,7 @@ Some kinds of Technical Communication involve using the same kind of technology 
 
 ## TC Tech
 
-<details>
+<details open>
   <summary><b>Technology</b></summary>
 
 * [Stack Overflow](https://stackoverflow.com/) - A public platform building the definitive collection of coding questions & answers.
