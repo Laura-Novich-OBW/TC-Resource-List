@@ -52,8 +52,7 @@ Some kinds of Technical Communication involve using the same kind of technology 
 * [How to change user.email & user.name for each repository differently](https://crunchify.com/how-to-set-github-user-name-and-user-email-per-repository-different-config-for-different-repository/)
 * [Setup Git with multiple config](https://itnext.io/setup-git-with-multiple-configs-9b4111d6928c)
 * How to Contribute to an Open Source Project on GitHub ([course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github))
-* GitLab [Docs](https://docs.gitlab.com/) - A searchable docs portal. 
-</details>
+* GitLab [Docs](https://docs.gitlab.com/) - A searchable docs portal.
 
 
 ## Writing / Documenting Code 
@@ -108,5 +107,4 @@ Some kinds of Technical Communication involve using the same kind of technology 
 ### APIs
 
 * API documentation [best practices](https://bocoup.com/blog/documenting-your-api) (blog post in [bobcoup](https://bocoup.com/))
-</details>
 
