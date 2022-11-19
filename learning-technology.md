@@ -4,40 +4,28 @@ Some kinds of Technical Communication involve using the same kind of technology 
 
 ## TC Tech
 
-<details open>
-  <summary><b>Technology</b></summary>
+### Technology
 
 * [Stack Overflow](https://stackoverflow.com/) - A public platform building the definitive collection of coding questions & answers.
 * [How Stuff Works](https://www.howstuffworks.com/) 
 * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
-</details>
 
-
-
-
-<details>
-<summary>DITA</summary>
+### DITA
 
 * [What is DITA and Why Should You Care?](https://learningsolutionsmag.com/articles/524/what-is-dita-and-why-should-you-care)
 * [When to use the Concept, Task, and Reference types in DITA ](https://heretto.com/when-to-use-the-concept-task-and-reference-types-in-dita/)
 * [DITA Tools ](http://ww25.ditaworld.com/?subid1=20220216-0934-581d-bf37-25e165ae50e4#tool)
 * [DITA Conref Overview ](https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/conref-overview.html)
-</details>
 
-
-<details>
-<summary>UX/UI</summary>
+### UX/UI
 
 * [Uxbites](https://www.instagram.com/uxbites/')
 * [Aesthetic-Usability Effect](https://lawsofux.com/aesthetic-usability-effect.html)
 * [Humane by Design](https://humanebydesign.com/principles/empowering/)
 * [UX workshops](https://smashingconf.com/)
 * [What Are Heuristics?](https://www.verywellmind.com/what-is-a-heuristic-2795235)
-</details>
 
-
-<details>
-<summary>Learning to Use Git</summary>
+### Learning to Use Git
 
 * [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - Tom Preston-Werner
 * [The Git Parable - a different approach to understanding Git](https://www.youtube.com/watch?v=jm7QsI-nNjk) - Johan Herland
@@ -70,8 +58,7 @@ Some kinds of Technical Communication involve using the same kind of technology 
 
 ## Writing / Documenting Code 
 
-<details>
-<summary>HTML/XML</summary>
+### HTML/XML
 
 * [XML Building Blocks ](https://www.w3schools.com/xml/xml_dtd_building.asp#:~:text=Elements%20are%20the%20main%20building%20blocks%20of%20both%20XML%20and%20HTML%20documents.&text=Examples%20of%20XML%20elements%20could,br%22%20and%20%22img%22)
 * [XML Elements vs. Attributes](https://www.w3schools.com/xml/xml_dtd_el_vs_attr.asp)
@@ -80,20 +67,15 @@ Some kinds of Technical Communication involve using the same kind of technology 
 * [XML Tutorial](https://www.w3schools.com/xml/)
 * [HTML Character Entities Cheat Sheet ](https://cheatography.com/davechild/cheat-sheets/html-character-entities/)
 * [XML Elements Cheat Sheet](https://cheatography.com/nqramjets/cheat-sheets/xml-1-0/)
-</details>
 
-<details>
-<summary>JSON</summary>
+### JSON
 
 * [An introduction to JSON ](https://www.w3schools.com/js/js_json_intro.asp)
 * [Working with JSON ](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 * [JSON data set sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 * [JSON objects](https://www.w3schools.com/js/js_json_objects.asp)
-</details>
 
-
-<details>
-<summary>Python</summary>
+### Python
 
 * [Python](https://www.python.org/)
 * [Python Tutorial](https://www.w3schools.com/python/)
@@ -101,27 +83,20 @@ Some kinds of Technical Communication involve using the same kind of technology 
 * [Sphinx](https://runawayhorse001.github.io/SphinxGithub/index.html) - A Python Documentation Generator
 * [Introduction to Sphinx ](https://av.tib.eu/media/32773)
 * [NumPy tutorials](https://numpy.org/numpy-tutorials/) - NumPy is the fundamental package for scientific computing in Python.
-</details>
 
-
-<details>
-<summary>Ruby</summary>
+### Ruby
 
 * [Ruby Overview](https://www.tutorialspoint.com/ruby/ruby_overview.htm)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Cheat Sheet ](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
 * [Ruby Syntax](https://www.tutorialspoint.com/ruby/ruby_syntax.htm)
-</details>
 
-<details>
-<summary>Linux</summary>
+### Linux
 
 * [Conventions for Writing Linux Man Pages](https://linux.die.net/man/7/man-pages)
 * [Linux Programmer's Manual](https://manpages.debian.org/unstable/manpages/man-pages.7.en.html)
-</details>
 
-<details>
-<summary>Markdown</summary>
+### Markdown
 
 * [Markdown Guide](https://www.markdownguide.org/)
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -129,10 +104,8 @@ Some kinds of Technical Communication involve using the same kind of technology 
 * [Marktown 1.0.1 Download](https://daringfireball.net/projects/markdown/)
 * [MDX 2](https://mdxjs.com/)
 * [The MyST Syntax Guide](https://myst-parser.readthedocs.io/en/latest/using/syntax.html) - MyST is a rich and extensible flavor of Markdown meant for technical documentation and publishing
-</details>
 
-<details>
-<summary>APIs</summary>
+### APIs
 
 * API documentation [best practices](https://bocoup.com/blog/documenting-your-api) (blog post in [bobcoup](https://bocoup.com/))
 </details>
