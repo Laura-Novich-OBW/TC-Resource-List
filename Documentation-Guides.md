@@ -1,8 +1,8 @@
 # Documentation Guides
 
 Resources for best practices for creating software documentation.
-<details>
-<summary>Guides</summary>
+
+## Guides
   
 * [Dozuki Guide to Technical Writing](https://www.dozuki.com/tech_writing/)  
 * [Dozuki Guide to Technical Writing](https://www.dozuki.com/tech_writing/)  
@@ -13,10 +13,9 @@ Resources for best practices for creating software documentation.
 * [Diátaxis Framework](https://diataxis.fr/) &ndash; a systematic framework for technical documentation authoring. 
 * [The problem and the solution](https://documentation.divio.com/introduction/#for-readers) &ndash; based in Divio.  
 * [Create documentation with RST, Sphinx, Sublime, and GitHub](https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html) &ndash; guidelines and tips for efficiently creating documentation.
-</details>
 
-<details>
-<summary>Dictionaries</summary>
+
+## Dictionaries
   
 * [Merriam-Webster](https://www.merriam-webster.com/)  
 * [Thesaurus]( https://www.thesaurus.com)  
