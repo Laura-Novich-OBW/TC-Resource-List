@@ -1,8 +1,8 @@
 # Community Resources
 
 Resources to find like-minded people in the TC community. Information from previous meetups and conferences. Opensource projects for collaboration.
-<details>
-<summary>Professional Organizations</summary>
+
+## Professional Organizations
 
 * [Write the Docs](https://www.writethedocs.org) &ndash; International group with a presence in Israel. They have meetups and conferences. They also have an awesome slack channel. 
 * [Tekom](https://www.technical-communication.org) &ndash; An organization out of Europe with chapters in 12 countries and over 10,000 members. They have regular activities throughout Europe, Israel, and Asia (China, Japan, India, etc.). There is a chapter in Israel and they host events regularly (4-5 per year), and are currently offering online webinars and programs. Ask Paula Stern for details: paula@writepoint.com.
@@ -14,27 +14,23 @@ Resources to find like-minded people in the TC community. Information from previ
 * [Drupal Slack Channels](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack)  
 * [The Good Docs Project Community](https://thegooddocsproject.dev/community/) &ndash; A community of technical writers, developers, UX designers, and more who work together to make software documentation better.  
 * [GitHub Docs Contributing Guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md#reviewing) &ndash; Contribute to GitHub Docs! 
-</details>
 
-<details>
-<summary>Helpful Blogs</summary>
+## Helpful Blogs
 
 * [Tom Johnson](https://www.linkedin.com/in/ACoAAABKbO4BhPgNXb4ZLwyR51SNF-BUvO0Ijzo/)'s blog [I'd Rather Be Writing](https://idratherbewriting.com/) &ndash; Exploring technical trends and innovations.  
 * [Alyssa Rock's blog](https://alyssarock.pro/?page_id=110) &ndash; Technical Writing blog.    
 * [Every Page is Page One](https://everypageispageone.com/) &ndash; Mark Baker's Content Strategy and Technical Communication Blog.  
 * [Ffeathers](https://ffeathers.wordpress.com/) &ndash; a Technical Writing and Fiction Blog. 
-</details>
 
-<details>
-<summary>Mailing Lists / Groups</summary>
+
+## Mailing Lists / Groups
 
 * [Techshoret](https://www.facebook.com/groups/techshoret) &ndash; Facebook Group for Israeli Technical Communication Specialists Facebook.  
 * [Microcopy & UX Writing](https://www.facebook.com/groups/microcopy) &ndash; the largest UX writing community in the world on Facebook.  
 * [Opensource.com](https://opensource.com/about) &ndash; open group creating daily publication focused on open source and Linux tutorials, stories, and resources.  
-</details>
 
-<details>
-<summary>Conferences and Meetups</summary>
+
+## Conferences and Meetups
 
 #### Write the Docs Conference, Portland 2021. Sketchnotes
 
@@ -76,10 +72,8 @@ Resources to find like-minded people in the TC community. Information from previ
 * [Linette Voller LinkedIn](https://www.linkedin.com/posts/linettevoller_documentation-sketchnotes-techwriting-activity-6792772202421993472-qImC/)  
 * [Linette Voller Website](https://linettevoller.com/)  
 * [Linette Voller - 5 Steps Towards Making Sketchnotes](https://www.youtube.com/watch?v=uF0XAuQmfdM)  
-</details>
 
-<details>
-<summary>Other Presentations</summary>
+## Other Presentations
  
 * [Laura Novich - Zhu and the Art of Bridge Building](https://www.slideshare.net/lauranovich/zhu-and-the-art-of-bridge-building) &ndash; MegaComm 2020 slides.  
 * [Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots](https://www.writethedocs.org/videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/) &ndash; a video presentation from Write the Docs Portland 2018 by Steve Stegelin video.  
@@ -89,10 +83,8 @@ Resources to find like-minded people in the TC community. Information from previ
 * [Show Me the Money: How to Get Your Docs the Love and Support They Deserve](https://www.youtube.com/watch?v=8ZPUOwBIi3g) &ndash; Matt Reiner; Write the Docs Portland 2019 video.  
 * [Friction Logging 101](https://www.youtube.com/watch?v=765wLWVcyS0) &ndash; Emma Iwao, DevRelCon video.  
 * [Generating a Culture of Doc](https://www.youtube.com/watch?v=v41nPTpXnHQ&list=PLmV2D6sIiX3UpQFzAIWh-_gsUTGCCtFIj&index=4) &ndash; Leah Cutter video.  
- </details>
- 
-<details>
-<summary>Opensource Projects</summary>
+
+## Opensource Projects
 
 * [Open Source Initiative](https://opensource.org/about)  
 * [NetNewsWire Help Book](https://github.com/Ranchero-Software/NetNewsWireHelp ) &ndash; RSS reader for Mac and iOS.  
